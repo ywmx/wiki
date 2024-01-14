@@ -1,3 +1,12 @@
+---
+title: Android
+category: Devices
+order: 1
+---
+
+
+
+
   Install Arch Linux in Legacy system  body { background-color: black; color:white; } [SpaceLegion.wiki](index.html)  
   
 
